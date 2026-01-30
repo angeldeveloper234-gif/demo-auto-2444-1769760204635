@@ -1,0 +1,80 @@
+{
+    "project_name": "senior-creative-template-v5",
+    "explanation": "Master Template v5. Includes 'The Arsenal' widgets and reactive Custom Cursor.",
+    "files": [
+        {
+            "path": "src/components/sections/Navbar.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/sections/Footer.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/WhatsAppFloat.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/CookieConsent.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/ConsultationBanner.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/DisclaimerModal.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/BookingModal.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/ExitIntentPopup.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/StickyCallBar.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/AccessibilityMenu.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/ScrollProgressBar.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/SocialProofToast.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/ThemeToggle.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/features/CustomCursor.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/components/ui/TextReveal.tsx",
+            "content": "..."
+        },
+        {
+            "path": "src/App.tsx",
+            "content": "..."
+        }
+    ],
+    "dependencies": [
+        "framer-motion",
+        "clsx",
+        "tailwind-merge",
+        "lucide-react",
+        "@tailwindcss/vite",
+        "react-hook-form",
+        "zod",
+        "@hookform/resolvers"
+    ]
+}
